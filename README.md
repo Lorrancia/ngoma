@@ -1,8 +1,8 @@
-# Ngoma - AI Scouting for Music Platforms
+# ngoma - AI Scouting for Music Platforms
 
 > *Hear the next breakout before anyone else does.*
 
-Ngoma is an AI scout for music platforms. It listens to every new track, scores its breakout potential on five signals, and routes the best songs to where they can grow: remix challenges, playlists, sync briefs and artist programs.
+ngoma is an AI scout for music platforms. It listens to every new track, scores its breakout potential on five signals, and routes the best songs to where they can grow: remix challenges, playlists, sync briefs and artist programs.
 
 ## Live demo
 
@@ -30,7 +30,7 @@ ngoma/
 
 ## The AI scoring model
 
-Ngoma outputs a 0–100 score from 5 signals, with **weights that shift by lane**, because a remix magnet and a sync-ready cue are different kinds of hit.
+ngoma outputs a 0–100 score from 5 signals, with **weights that shift by lane**, because a remix magnet and a sync-ready cue are different kinds of hit.
 
 | Signal | Short-form viral | Playlist & streaming | Sync & licensing | Artist development |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ Scoring is opt-in, creators keep their rights, and every track is screened for c
 
 Built as a product concept and portfolio piece. All tracks, creators and figures are illustrative.
 
-The name *Ngoma* means drum, and the song and dance that go with it, in many Bantu languages.
+The name *ngoma* means drum, and the song and dance that go with it, in many Bantu languages.
 
 ---
 
